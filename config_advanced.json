@@ -1,0 +1,8 @@
+{
+    "symbol": "BTC/USDT",
+    "timeframe": "5m",
+    "testnet": true,
+    "risk_management": {
+        "max_kelly": 0.25
+    }
+}
