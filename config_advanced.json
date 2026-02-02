@@ -1,8 +1,16 @@
 {
-    "symbol": "BTC/USDT",
+    "symbols": [
+        "BTC/MXN",
+        "ETH/MXN",
+        "NVDA/MXN",
+        "TSLA/MXN",
+        "AAPL/MXN",
+        "MSFT/MXN",
+        "AMZN/MXN"
+    ],
     "timeframe": "5m",
-    "testnet": true,
+    "cycle_interval": 60,
     "risk_management": {
-        "max_kelly": 0.25
+        "max_kelly": 0.20
     }
 }
